@@ -66,3 +66,16 @@ printf("██ ▓▓ ▓▓ ██ ██ ██ ██ ██ ── ── �
 printf("██ ▓▓ ▓▓ ██ ██ ── ── ── ── ── ── ── ██ ██ ██ ──                                 -Tammas Hicks \n");
 printf("── ██ ██ ── ── ── ── ── ── ── ── ── ── ── ── ──\n");
 }
+
+void jaeger_jochimsen()
+{
+	printf("\nChad, your work as a TA made this class more than bearable, it made it enjoyable\n");
+	printf("Your positive attitude and your willingness to go above and beyond the call of duty\n");
+	printf("made all of our lives easier and made the content graspable. You are by far the greatest\n");
+	printf("TA that I've had the pleasure to work with. I wish you the best of luck, and though right now\n");
+	printf("I am naught but a budding programmer, never hesitate to contact me down the road (once I'm of use)\n");
+	printf("if you need extra eyes on a project, someone to comment code for you, or anything of the sort\n");
+	printf("I would be delighted to help.\n");
+	printf("\nBest regards and the best of luck,\n");
+	printf("-Jaeger J\n");
+}
